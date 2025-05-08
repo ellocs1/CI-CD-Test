@@ -1,9 +1,9 @@
 def test():
-  print("Hello")
+    print("Hello")
 
 
 def test2():
-  print("Goodbye")
+    print("Goodbye")
 
 
 print(test())
